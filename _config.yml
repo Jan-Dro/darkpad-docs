@@ -1,8 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Darkpad Docs
+description: A simple documentation website
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://jan-dro.github.io/darkpad-docs/
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
+search_enabled: true
+
+# Navigation sections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
