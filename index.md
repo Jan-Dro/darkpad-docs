@@ -2,6 +2,7 @@
 title: Home
 layout: home
 nav_order: 1
+has_children: true
 ---
 
 This is my Home page for my documentation
