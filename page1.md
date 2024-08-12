@@ -7,7 +7,7 @@ nav_order: 2
 
 # Page 1
 
-```mermaid
+
 graph TD
     A[App Entry Point] --> B[Main Navigation]
     B --> C[Home Screen]
@@ -26,7 +26,6 @@ graph TD
     E --> M[Brush Settings]
     E --> N[Export Options]
 
-```
 
 ### Explanation:
 
