@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 has_children: true
 ---
-# Welcome to the React Native Drawing App Documentation
+# Welcome to Darkpad Documentation! 
 
 ## Introduction
 
