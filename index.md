@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 has_children: true
 ---
-# Welcome to Darkpad Documentation! 
+# Welcome to Artifex Documentation! 
 
 ## Introduction
 
